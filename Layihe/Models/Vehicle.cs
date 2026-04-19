@@ -23,7 +23,7 @@ namespace Layihe.Models
         
         }
 
-
+        
 
         private string _model;
         public string Model
