@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Layihe.Models
 {
-    public class Vehicle
+    public abstract class Vehicle
     {
         private string _brand;
         public string Brand 
